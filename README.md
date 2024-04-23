@@ -1,6 +1,9 @@
-Boas vinadas ao meu perfil ▶️
+### Boas vinadas ao meu perfil ▶️
 
-Meu nome é Valdemi
+Meu nome é **Valdemi**
+
+ 
+
 
 - Estou estudando na [Alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagem JavaScript
